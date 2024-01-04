@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.166667,
+greektv_promo0.ts
+#EXTINF:4.200000,
+greektv_promo1.ts
+#EXTINF:6.166667,
+greektv_promo2.ts
+#EXTINF:6.666667,
+greektv_promo3.ts
+#EXTINF:6.733333,
+greektv_promo4.ts
+#EXTINF:3.433333,
+greektv_promo5.ts
+#EXT-X-ENDLIST
