@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.166667,
+https://raw.githubusercontent.com/nickstamp93/assets/main/promo0.ts
+#EXTINF:4.200000,
+https://raw.githubusercontent.com/nickstamp93/assets/main/promo1.ts
+#EXTINF:6.166667,
+https://raw.githubusercontent.com/nickstamp93/assets/main/promo2.ts
+#EXTINF:6.666667,
+https://raw.githubusercontent.com/nickstamp93/assets/main/promo3.ts
+#EXTINF:6.733333,
+https://raw.githubusercontent.com/nickstamp93/assets/main/promo4.ts
+#EXTINF:3.433333,
+https://raw.githubusercontent.com/nickstamp93/assets/main/promo5.ts
+#EXT-X-ENDLIST
